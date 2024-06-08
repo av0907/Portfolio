@@ -180,7 +180,7 @@ const HeroSection = () => {
         >
           <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative shadow-lg shadow-[#074368] transition duration-300 ease-in-out hover:shadow-xl hover:shadow-[#074368] hover:scale-105">
             <Image
-              src="/images/hero-image-Photoroom.png-Photoroom.png"
+              src="https://drive.google.com/uc?export=view&id=1VDO_wpug3mYvLnwv44x_AxmtjwV1JtDn"
               alt="hero image"
               className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={250}

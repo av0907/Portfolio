@@ -7,28 +7,28 @@ const certificatesData = [
   {
     id: 1,
     name: "AWS Certified Solutions Architect – Associate",
-    imageUrl: "/images/AWS.PNG", // Correct image path from Credly
+    imageUrl: "https://drive.google.com/uc?export=view&id=1fcWptxWDgPfvsXcSlDJrUZ7-fnHTQA-6", 
     link: "https://www.credly.com/badges/703033ed-f688-4498-a60a-8eb901a70278",
   },
   {
     id: 2,
     name: "Docker Essentials: A Developer Introduction",
-    imageUrl: "/images/Docker_Certificate.PNG", // Correct image path from Credly
+    imageUrl: "https://drive.google.com/uc?export=view&id=1KX8522XKqdaxAQZpmPM9pcWWs6T0VR9H",
     link: "https://www.credly.com/earner/earned/badge/1c746035-0ca6-4f9e-b881-691fa242ed70",
   },
   {
     id: 3,
-    name: "Complete React Course",
-    imageUrl: "/images/Docker_Certificate.PNG", // Correct image path from Credly
+    name: "Advanced React and Redux: 2023 Edition",
+    imageUrl: "https://drive.google.com/uc?export=view&id=1xCA1do1jiJud9c66C5Q9wjm-aOOgqImZ", 
     link: "https://www.credlyzasdcz.com/badges/2f999884-9e4f-4824-b5f9-c5f705c06271/public_url"
   },
   {
     id: 4,
     name: "Python BootCamp",
-    imageUrl: "/images/Udemy_Certificate.PNG", // Correct image path from Credly
+    imageUrl: "https://drive.google.com/uc?export=view&id=113GnYhC2N5sw-vbwYqc1HLScS3xJOoIi",
     link: "https://www.credlyzvz.com/badges/f0a456a5-039a-4c08-a910-87e61b83d07c"
   },
-  // ... other certificates
+  
 ];
 
 const CertificatesSection = () => {

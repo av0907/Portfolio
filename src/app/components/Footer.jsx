@@ -47,7 +47,7 @@ const Footer = () => {
       <div className="container p-12 flex justify-between items-center">
         <div className="flex items-center">
           <Image
-            src="/images/logo.jpg" // Renamed image for better clarity
+            src="https://drive.google.com/uc?export=view&id=1aFPmBGoiEUg_KWWOJXazwnB6O8-VgbbT" // Renamed image for better clarity
             alt="Company Logo"
             width={40}
             height={40}

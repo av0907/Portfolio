@@ -252,7 +252,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-10 bg-[#121212] border border-[#33353F]">
       <div className="container mx-auto flex flex-wrap items-center justify-between px-4 py-2 lg:py-4">
         <Link href="/" className="flex items-center">
-          <Image src="/images/logo.jpg" alt="Logo" width={40} height={40} className="mr-2" />
+          <Image src="https://drive.google.com/uc?export=view&id=1aFPmBGoiEUg_KWWOJXazwnB6O8-VgbbT" alt="Logo" width={40} height={40} className="mr-2" />
           <span className="text-xl md:text-2xl font-semibold text-[#074368]">AVO</span>
         </Link>
         <div className="block md:hidden">
